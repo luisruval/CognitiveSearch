@@ -1,0 +1,2 @@
+# CognitiveSearch
+Description: Hands on lab to learn how to use Azure Cognitive Search to create an enterprise search solution by applying knowledge mining to business documents like contracts, memos, presentations and images. You will use Microsoft Azure AI technology to extract insights from unstructured data and expose the results in a Bot interface that is deployed using containers and can be consumed using Microsoft Teams.
